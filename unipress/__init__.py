@@ -17,7 +17,7 @@
 ####################################################################################
 #
 """
-	This is a python library developed by Institute of High Pressuer Physics of Polish Academy of Sciences.
+	This is a python library developed by Institute of High Pressure Physics of Polish Academy of Sciences.
 """
 
 
