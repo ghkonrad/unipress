@@ -25,7 +25,7 @@ import scipy.integrate
 
 def tau_scoul1(theta, gamma, tau_srh):
 	"""
-		This is an approximation of the Shockley-Read-Hall recombination capture time accounting for thee attraction of the minority carrier by the Coulomb force.
+		This is an approximation of the Shockley-Read-Hall recombination capture time accounting for the attraction of the minority carrier by the Coulomb force.
 
 		Parameters:
 
@@ -50,7 +50,7 @@ def tau_scoul1(theta, gamma, tau_srh):
 
 def tau_scoul2(theta, gamma, tau_srh):
 	"""
-		This is an approximation of the Shockley-Read-Hall recombination capture time accounting for thee attraction of the minority carrier by the Coulomb force.
+		This is an approximation of the Shockley-Read-Hall recombination capture time accounting for the attraction of the minority carrier by the Coulomb force.
 
 		Parameters:
 
