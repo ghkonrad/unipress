@@ -22,5 +22,8 @@ setuptools.setup(
 	platforms = ["any", ],
 	python_requires='>=3.6',
 	py_modules=["unipress"],
-	install_requires=[]
+	install_requires=[
+		"numpy",
+		"scipy",
+	]
 )
