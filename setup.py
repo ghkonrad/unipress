@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="unipress",
-	version="1.3",
+	version="1.4",
 	author="Konrad Sakowski",
 	description="This is a library developed by Institute of High Pressure Physics of Polish Academy of Sciences.",
 	long_description=long_description,
@@ -24,6 +24,7 @@ setuptools.setup(
 	py_modules=["unipress"],
 	install_requires=[
 		"numpy",
+		"pint",
 		"scipy",
 	]
 )
